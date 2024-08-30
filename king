@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		h1{
+			color: maroon;
+			margin-left: 40px;
+		}
+h{
+color:lime;
+}
+g{
+color:cyan;
+}
+	</style>
+</head>
+<body>
+	<h1>title</h1>
+	<p class="g">hello guys i am a people today i study but im just lying because i like to play game bye</p>
+	<p class="h">so today i will talk you about how to play ff but you dot know what will hapopen in the future</p>
+</body>
+</html>
