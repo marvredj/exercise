@@ -6,10 +6,10 @@
 			color: maroon;
 			margin-left: 40px;
 		}
-h{
+.h{
 color:lime;
 }
-g{
+.g{
 color:cyan;
 }
 	</style>
